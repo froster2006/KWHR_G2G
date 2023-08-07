@@ -2,12 +2,12 @@
 
 ## Leg 1 (11.5 km) 7:00AM
 
-- 起点
+* 起点
   * [Google Map](https://goo.gl/maps/CHA8XiQnjLyhkGgN7) 
   * [Apple Map](https://maps.apple.com/place?q=725%20Katherine%20St%20N&ll=43.591833%2C-80.463361&address=725%20Katherine%20St%20N%2C%20West%20Montrose%20ON%20N0B%202V0%2C%20Canada)
 
 
-- 终点
+* 终点
   * [Google Map](https://goo.gl/maps/unpuYCAorQqH2x6q8) 
   * [Apple Map](https://maps.apple.com/place?address=725%20Katherine%20St%20N,%20West%20Montrose%20ON%20N0B%202V0,%20Canada&ll=43.591833,-80.463361&q=725%20Katherine%20St%20N&t=m)
 
@@ -20,12 +20,12 @@
 
 ## Leg 2 (6.0 km) 8:00AM
 
-- 起点
+* 起点
   * [Google Map](https://maps.app.goo.gl/j4Yqq2CLwx6tjzKX9?g_st=ic)
   * [Apple Map](https://maps.apple.com/place?address=6046%E2%80%936056%20Middlebrook%20Rd,%20West%20Montrose%20ON%20N0B%202V0,%20Canada&ll=43.594944,-80.480361&q=6046%E2%80%936056%20Middlebrook%20Rd&t=m)
 
 
-- 终点
+* 终点
   * [Google Map](https://maps.app.goo.gl/qYA7DfEW7cG421K38?g_st=ic)
   * [Apple Map](https://maps.apple.com/place?q=41%20Arthur%20St%20N&ll=43.603268%2C-80.554557&address=41%20Arthur%20St%20N%2C%20Elmira%20ON%20N3B%202A1%2C%20Canada)
 
