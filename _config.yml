@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: 2023 G2G 
+title: KWHR G2G Planning Page
 description: 2023
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
