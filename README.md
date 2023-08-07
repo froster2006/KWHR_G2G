@@ -34,108 +34,74 @@
   * 2K  [Google Map](https://goo.gl/maps/tCEdbNUYj7VgBqYW6)
 
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 3 (8.5 km) 
-- ButterTarts - 8:40AM
-21 Arthur St. (Elmira) to Powell Rd. (Wallenstein)
 
-Leg 3 起点： ❇️❇️
-Google Map:
-https://maps.app.goo.gl/2tsLPWoVTtGRfEYPA?g_st=ic
+## Leg 3 (8.5 km) 8:40AM
+
+* 起点
+  * [Google Map](https://maps.app.goo.gl/2tsLPWoVTtGRfEYPA?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=20B%20Arthur%20St%20N&ll=43.603889%2C-80.555611&address=20B%20Arthur%20St%20N%2C%20Elmira%20ON%20N3B%201Z9%2C%20Canada)
 
 
-Apple Map:
-
-￼
-
-
-Leg 3 终点： 🛑🛑
-Google Map:
-
-https://maps.app.goo.gl/Z9c87wuuEttBXE2Y7?g_st=ic
-
-Apple Map:  43.59993835376139, -80.64806167116473
-
-￼
-
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 4 (15.5 km) 
-– The Long Run - 9:30AM
-Powell Rd. (Wallenstein) to Perth Rd. 121 (Millbank)
-
-Leg 4 起点： ❇️❇️
-Google Map:
-
-https://maps.app.goo.gl/FhJjP2oaifZnYkBr8?g_st=ic
-
-Apple Map:
-
-￼
+* 终点
+  * [Google Map](https://maps.app.goo.gl/Z9c87wuuEttBXE2Y7?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=4700%E2%80%934730%20Powell%20Rd,%20Wallenstein%20ON%20N0B%202S0,%20Canada&ll=43.599938,-80.648062&q=4700%E2%80%934730%20Powell%20Rd&t=h)
 
 
-
-Leg 4 终点： 🛑🛑
-Google Map:
-
-https://maps.app.goo.gl/EsVyMgVxbfJAHQEf9?g_st=ic
-
-Apple Map:
-
-￼
+* 补给 / 拍照点
+  * 4.3K  [Google Map](https://goo.gl/maps/qNDg4Zoz7y2kJU3J6)
+  * 6.8K  [Google Map](https://goo.gl/maps/e9hLvkWbKaDZWcZw9)
 
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 5 (8.8 km) 
-– Country Roads - 10:45AM
-Perth Rd. 121 (Millbank) to 27 Mill St. W (Milverton)
+## Leg 4 (15.5 km) 9:30AM
 
-Leg 5 起点： ❇️❇️
-Google Map:
-
-https://maps.app.goo.gl/sCzyjTCRzbP28STy8?g_st=ic
-
-Apple Map:
-
-￼
+* 起点
+  * [Google Map](https://maps.app.goo.gl/FhJjP2oaifZnYkBr8?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=4700%E2%80%934730%20Powell%20Rd,%20Wallenstein%20ON%20N0B%202S0,%20Canada&ll=43.599938,-80.648062&q=4700%E2%80%934730%20Powell%20Rd&t=h)
 
 
-Leg 5 终点： 🛑🛑
-Google Map:
-
-https://maps.app.goo.gl/ZSzoi2fkzRMwpi8BA?g_st=ic
-
-Apple Map:
-
-￼
+* 终点
+  * [Google Map](https://maps.app.goo.gl/EsVyMgVxbfJAHQEf9?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=7021%20County%20Road%20121,%20Newton%20ON%20N0K%201R0,%20Canada&ll=43.574078,-80.836873&q=7021%20County%20Road%20121&t=h)
 
 
-
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 6 (13.1 km) 
-– Monkton Midway - 11:40AM
-27 Mill St. W (Milverton) to Ontario Rd. 23 (Monkton)
-
-Leg 6 起点： ❇️❇️
-Google Map:
-
-https://maps.app.goo.gl/cnKg4NMTt1r55asU8?g_st=ic
+* 补给 / 拍照点
+  * 6.6K  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
+  * 11.2K [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+  * 13.5K [Google Map](https://goo.gl/maps/v8N4iT8SWFQMBxgSA)
 
 
-Apple Map:
+## Leg 5 (8.8 km) 10:45AM
 
-￼
-
-
-
-Leg 6 终点： 🛑🛑
-Google Map:
-
-https://maps.app.goo.gl/yPrsYnbGjUq7rU3k9?g_st=ic
+* 起点
+  * [Google Map](https://maps.app.goo.gl/sCzyjTCRzbP28STy8?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=7021%20County%20Road%20121,%20Newton%20ON%20N0K%201R0,%20Canada&ll=43.574078,-80.836873&q=7021%20County%20Road%20121&t=h)
 
 
-Apple Map:
+* 终点
+  * [Google Map](https://maps.app.goo.gl/ZSzoi2fkzRMwpi8BA?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=37%20Mill%20St%20W&ll=43.567953%2C-80.927384&address=37%20Mill%20St%20W%2C%20Milverton%20ON%20N0K%201M0%2C%20Canada)
 
-￼
+
+* 补给 / 拍照点
+  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
+  * xK [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+
+
+## Leg 6 (13.1 km) 11:40AM
+
+* 起点
+  * [Google Map](https://maps.app.goo.gl/cnKg4NMTt1r55asU8?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=37%20Mill%20St%20W&ll=43.567953%2C-80.927384&address=37%20Mill%20St%20W%2C%20Milverton%20ON%20N0K%201M0%2C%20Canada)
+
+
+* 终点
+  * [Google Map](https://maps.app.goo.gl/yPrsYnbGjUq7rU3k9?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=185%20Winstanley%20St&ll=43.589481%2C-81.079928&address=185%20Winstanley%20St%2C%20Monkton%20ON%20N0K%201P0%2C%20Canada)
+
+
+* 补给 / 拍照点
+  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
+  * xK [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
 
