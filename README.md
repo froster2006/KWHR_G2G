@@ -1,28 +1,20 @@
-# KWHR_G2G 2023
+2023年G2G接力赛将于8月12日星期六举行、赛程和往年大致相同、每队12腿，最短6公里，最长16公里，其余大多数都是十公里左右。
 
-
-@所有人 今年G2G接力赛将于8月12日星期六举行、赛程和往年大致相同、每队12腿，最短6公里，最长16公里，其余大多数都是十公里左右。
-
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 1 (11.5 km) 
+## Leg 1 (11.5 km) 
 
 – Kissing Bridge - 7:00AM
 Marden Road (Guelph) to County Road 23 (Zuber Corners)
 
-Leg 1 起点：
-[Google Map](https://goo.gl/maps/CHA8XiQnjLyhkGgN7)
-
-[Apple Map](https://maps.apple.com/place?q=725%20Katherine%20St%20N&ll=43.591833%2C-80.463361&address=725%20Katherine%20St%20N%2C%20West%20Montrose%20ON%20N0B%202V0%2C%20Canada)
-
+- 起点
+> [Google Map](https://goo.gl/maps/CHA8XiQnjLyhkGgN7) \
+> [Apple Map](https://maps.apple.com/place?q=725%20Katherine%20St%20N&ll=43.591833%2C-80.463361&address=725%20Katherine%20St%20N%2C%20West%20Montrose%20ON%20N0B%202V0%2C%20Canada)
 
 
-Leg 1 终点：1️⃣🛑🛑
-Google Map:
-https://goo.gl/maps/unpuYCAorQqH2x6q8
 
-Apple Map:
+- 终点
+> [Google Map](https://goo.gl/maps/unpuYCAorQqH2x6q8) \
+> [Apple Map](https://maps.apple.com/place?address=725%20Katherine%20St%20N,%20West%20Montrose%20ON%20N0B%202V0,%20Canada&ll=43.591833,-80.463361&q=725%20Katherine%20St%20N&t=m)
 
-￼
 
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
