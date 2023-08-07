@@ -9,12 +9,11 @@ Leg 1 (11.5 km)
 – Kissing Bridge - 7:00AM
 Marden Road (Guelph) to County Road 23 (Zuber Corners)
 
-Leg 1 起点：1️⃣❇️❇️
-Google Map:
-https://goo.gl/maps/CHA8XiQnjLyhkGgN7
+Leg 1 起点：
+[Google Map](https://goo.gl/maps/CHA8XiQnjLyhkGgN7)
 
-Apple Map:
-￼
+[Apple Map](https://maps.apple.com/place?q=725%20Katherine%20St%20N&ll=43.591833%2C-80.463361&address=725%20Katherine%20St%20N%2C%20West%20Montrose%20ON%20N0B%202V0%2C%20Canada)
+
 
 
 Leg 1 终点：1️⃣🛑🛑
