@@ -104,175 +104,107 @@
   * xK [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
+## Leg 7 (10 km) 12:50PM
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 7 (10 km) 
-– Carmunnock Line - 12:50PM
-186 Brock St. (Monkton) to McNaught Line
+* 起点
+  * [Google Map](https://maps.app.goo.gl/QzGGrHWNeVafrUvo9?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=185%20Winstanley%20St&ll=43.589481%2C-81.079928&address=185%20Winstanley%20St%2C%20Monkton%20ON%20N0K%201P0%2C%20Canada)
 
-Leg 7 起点： ❇️❇️
-Google Map:
 
-https://maps.app.goo.gl/QzGGrHWNeVafrUvo9?g_st=ic
+* 终点
+  * [Google Map](https://maps.app.goo.gl/jqXmL5oYpRxiu6eq6?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=McNaught%20Line,%20Brodhagen%20ON,%20Canada&ll=43.634944,-81.189750&q=McNaught%20Line&t=m)
 
-Apple Map:
 
-￼
+* 补给 / 拍照点
+  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
+  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
+## Leg 8 (10.2 km) 13:40PM
 
-Leg 7 终点： 🛑🛑
-Google Map:
+* 起点
+  * [Google Map](https://maps.app.goo.gl/oec6Td5DLthv9kzw6?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=McNaught%20Line,%20Brodhagen%20ON,%20Canada&ll=43.634944,-81.189750&q=McNaught%20Line&t=m)
 
-https://maps.app.goo.gl/jqXmL5oYpRxiu6eq6?g_st=ic
 
+* 终点
+  * [Google Map](https://maps.app.goo.gl/UJt3CvyZWTieWBef6?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=83046%20County%20Road%2012&ll=43.680268%2C-81.299654&address=83046%20County%20Road%2012%2C%20Walton%20ON%20N0K%201Z0%2C%20Canada)
 
-Apple Map:
 
-￼
+* 补给 / 拍照点
+  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
+  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
+## Leg 9 (12.2 km) 14:30PM
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 8 (10.2 km) 
-– The Walton Line - 1:40PM
-McNaught Line to Brussels Line (Walton)
+* 起点
+  * [Google Map](https://maps.app.goo.gl/ouhih2QGHExqQMr56?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=83046%20County%20Road%2012&ll=43.680268%2C-81.299654&address=83046%20County%20Road%2012%2C%20Walton%20ON%20N0K%201Z0%2C%20Canada)
 
-Leg 8 起点： ❇️❇️
-Google Map:
 
-https://maps.app.goo.gl/oec6Td5DLthv9kzw6?g_st=ic
+* 终点
+  * [Google Map](https://maps.app.goo.gl/B4stcnHpquTabAHA9?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=206%20Westmoreland%20St,%20Blyth%20ON%20N0M%201H0,%20Canada&ll=43.738964,-81.427097&q=206%20Westmoreland%20St&t=m)
 
 
-Apple Map:
 
-￼
+* 补给 / 拍照点
+  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
+  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
+## Leg 10 (10.1 km) 15:30PM
 
-Leg 8 终点： 🛑🛑
-Google Map:
+* 起点
+  * [Google Map](https://maps.app.goo.gl/s2GUGYQxJN8LQhWJ9?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=206%20Westmoreland%20St,%20Blyth%20ON%20N0M%201H0,%20Canada&ll=43.738964,-81.427097&q=206%20Westmoreland%20St&t=m)
 
-https://maps.app.goo.gl/UJt3CvyZWTieWBef6?g_st=ic
 
-Apple Map:
+* 终点
+  * [Google Map](https://maps.app.goo.gl/YEppcS4SGbwvwAyv5?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=82652%E2%80%9382718%20Base%20Line,%20Auburn%20ON%20N0M%201E0,%20Canada&ll=43.761249,-81.541864&q=82652%E2%80%9382718%20Base%20Line&t=m)
 
-￼
 
+* 补给 / 拍照点
+  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
+  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 9 (12.2 km) 
-– We need more Cowbell - 2:30PM
-Brussels Line (Walton) to 499 Queen St. (Blyth)
+## Leg 11 (14.1 km) 16:20PM
 
-Leg 9 起点： ❇️❇️
-Google Map: 
+* 起点
+  * [Google Map](https://maps.app.goo.gl/vgX3PKmt92bLgBXe7?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=82652%E2%80%9382718%20Base%20Line,%20Auburn%20ON%20N0M%201E0,%20Canada&ll=43.761249,-81.541864&q=82652%E2%80%9382718%20Base%20Line&t=m)
 
-https://maps.app.goo.gl/ouhih2QGHExqQMr56?g_st=ic
 
+* 终点
+  * [Google Map](https://maps.app.goo.gl/EouqEY4CrfnaBH9n8?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=81722%20Sharpes%20Creek%20Line&ll=43.753576%2C-81.604239&address=81722%20Sharpes%20Creek%20Line%2C%20Goderich%20ON%20N7A%203Y2%2C%20Canada)
 
-Apple Map:
 
-￼
+* 补给 / 拍照点
+  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
+  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
+## Leg 12 (11.7 km) 17:30PM
 
+* 起点
+  * [Google Map](https://maps.app.goo.gl/w9q6j5TGu8fqRbQP9?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=81722%20Sharpes%20Creek%20Line&ll=43.753576%2C-81.604239&address=81722%20Sharpes%20Creek%20Line%2C%20Goderich%20ON%20N7A%203Y2%2C%20Canada)
 
-Leg 9 终点： 🛑🛑
-Google Map: 
 
-https://maps.app.goo.gl/B4stcnHpquTabAHA9?g_st=ic
+* 终点
+  * [Google Map](https://maps.app.goo.gl/QYPUZdK8T6kYgkwv5?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=270%20Harbour%20St&ll=43.745056%2C-81.725694&address=270%20Harbour%20St%2C%20Goderich%20ON%20N7A%202K2%2C%20Canada)
 
 
-Apple Map:
-
-￼
-
-
-
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 10 (10.1 km) 
-– The Snake - 3:30PM
-499 Queen St. (Blyth) to 82677 Base line Rd. (Auburn)
-
-Leg 10 起点： ❇️❇️
-Google Map:
-
-https://maps.app.goo.gl/s2GUGYQxJN8LQhWJ9?g_st=ic
-
-
-Apple Map:
-
-￼
-
-
-
-Leg 10 终点： 🛑🛑
-Google Map:
-
-https://maps.app.goo.gl/YEppcS4SGbwvwAyv5?g_st=ic
-
-
-Apple Map:
-
-￼
-
-
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 11 (14.1 km) 
-– Monarch of the Mountains - 4:20PM
-(!!今年新改路线!!)
-82677 Base Line Rd. (Auburn) to 81799 Sharpe's Creek Line (McGaw)
-
-Leg 11 起点： ❇️❇️
-Google Map:
-
-https://maps.app.goo.gl/vgX3PKmt92bLgBXe7?g_st=ic
-
-
-Apple Map:
-
-￼
-
-
-
-Leg 11 终点： 🛑🛑
-Google Map:
-
-https://maps.app.goo.gl/EouqEY4CrfnaBH9n8?g_st=ic
-
-Apple Map:
-
-￼
-
-
-
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 12 (11.7 km) 
-– Anchor to the Lake - 5:30PM
-81799 Sharpe's Creek Line to Goderich Pier
-
-Leg 12 起点： ❇️❇️
-Google Map:
-
-https://maps.app.goo.gl/w9q6j5TGu8fqRbQP9?g_st=ic
-
-
-Apple Map:
-
-￼
-
-
-
-Leg 12 终点： 🛑🛑
-Google Map:
-
-https://maps.app.goo.gl/QYPUZdK8T6kYgkwv5?g_st=ic
-
-Apple Map:
-
-￼
+* 补给 / 拍照点
+  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
+  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
 
