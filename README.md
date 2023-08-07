@@ -20,6 +20,7 @@
 
 ## Leg 2 (6.0 km) 8:00AM
 
+- 起点
   * [Google Map](https://maps.app.goo.gl/j4Yqq2CLwx6tjzKX9?g_st=ic)
   * [Apple Map](https://maps.apple.com/place?address=6046%E2%80%936056%20Middlebrook%20Rd,%20West%20Montrose%20ON%20N0B%202V0,%20Canada&ll=43.594944,-80.480361&q=6046%E2%80%936056%20Middlebrook%20Rd&t=m)
 
