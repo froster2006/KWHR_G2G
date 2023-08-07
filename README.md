@@ -214,7 +214,7 @@
 * 补给 / 拍照点
   * 4.2K  [Google Map](https://goo.gl/maps/ChMZz5G17EJrQeo3A)
   * 8.1K  [Google Map](https://goo.gl/maps/qy8zqbJatXYN2gcc6)
-  * 10.4K **most important direction point** [Google Map](https://goo.gl/maps/BQaLgD6Rf3WoPeKo8)
+  * 10.4K **most important direction point** [Google Map](https://goo.gl/maps/GqYNNun2TmWdLCu3A)
 
 
 
