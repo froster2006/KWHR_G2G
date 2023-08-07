@@ -1,44 +1,37 @@
 2023年G2G接力赛将于8月12日星期六举行、赛程和往年大致相同、每队12腿，最短6公里，最长16公里，其余大多数都是十公里左右。
 
-## Leg 1 (11.5 km) 
-
-– Kissing Bridge - 7:00AM
-Marden Road (Guelph) to County Road 23 (Zuber Corners)
+## Leg 1 (11.5 km) 7:00AM
 
 - 起点
-> [Google Map](https://goo.gl/maps/CHA8XiQnjLyhkGgN7) \
-> [Apple Map](https://maps.apple.com/place?q=725%20Katherine%20St%20N&ll=43.591833%2C-80.463361&address=725%20Katherine%20St%20N%2C%20West%20Montrose%20ON%20N0B%202V0%2C%20Canada)
-
+  * [Google Map](https://goo.gl/maps/CHA8XiQnjLyhkGgN7) 
+  * [Apple Map](https://maps.apple.com/place?q=725%20Katherine%20St%20N&ll=43.591833%2C-80.463361&address=725%20Katherine%20St%20N%2C%20West%20Montrose%20ON%20N0B%202V0%2C%20Canada)
 
 
 - 终点
-> [Google Map](https://goo.gl/maps/unpuYCAorQqH2x6q8) \
-> [Apple Map](https://maps.apple.com/place?address=725%20Katherine%20St%20N,%20West%20Montrose%20ON%20N0B%202V0,%20Canada&ll=43.591833,-80.463361&q=725%20Katherine%20St%20N&t=m)
+  * [Google Map](https://goo.gl/maps/unpuYCAorQqH2x6q8) 
+  * [Apple Map](https://maps.apple.com/place?address=725%20Katherine%20St%20N,%20West%20Montrose%20ON%20N0B%202V0,%20Canada&ll=43.591833,-80.463361&q=725%20Katherine%20St%20N&t=m)
+
+
+* 补给 / 拍照点
+  * 5.6K  [Google Map](https://goo.gl/maps/qY5zyaGbH6dKSiqH7)
+  * 9.6K  [Google Map](https://goo.gl/maps/cbreB7bCZzZ4hKQt6)
 
 
 
-🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
-Leg 2 (6.0 km) 
-– The Sprint - 8:00AM
-Township Road 62 – Middlebrook Rd. (West Montrose) to 21 Arthur St. (Elmira)
+## Leg 2 (6.0 km) 8:00AM
 
-Leg 2 起点：❇️❇️
-Google Map:
-https://maps.app.goo.gl/j4Yqq2CLwx6tjzKX9?g_st=ic
-
-Apple Map:
-
-￼
+  * [Google Map](https://maps.app.goo.gl/j4Yqq2CLwx6tjzKX9?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?address=6046%E2%80%936056%20Middlebrook%20Rd,%20West%20Montrose%20ON%20N0B%202V0,%20Canada&ll=43.594944,-80.480361&q=6046%E2%80%936056%20Middlebrook%20Rd&t=m)
 
 
-Leg 2 终点： 🛑🛑
-Google Map:
+- 终点
+  * [Google Map](https://maps.app.goo.gl/qYA7DfEW7cG421K38?g_st=ic)
+  * [Apple Map](https://maps.apple.com/place?q=41%20Arthur%20St%20N&ll=43.603268%2C-80.554557&address=41%20Arthur%20St%20N%2C%20Elmira%20ON%20N3B%202A1%2C%20Canada)
 
-https://maps.app.goo.gl/qYA7DfEW7cG421K38?g_st=ic
 
-Apple Map:
+* 补给 / 拍照点
+  * 2K  [Google Map](https://goo.gl/maps/tCEdbNUYj7VgBqYW6)
 
-￼
 
 🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸🔸
 Leg 3 (8.5 km) 
