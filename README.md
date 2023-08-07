@@ -52,6 +52,7 @@
   * 6.8K  [Google Map](https://goo.gl/maps/e9hLvkWbKaDZWcZw9)
 
 
+
 ## Leg 4 (15.5 km) 9:30AM
 
 * 起点
@@ -68,6 +69,7 @@
   * 6.6K  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
   * 11.2K [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
   * 13.5K [Google Map](https://goo.gl/maps/v8N4iT8SWFQMBxgSA)
+
 
 
 ## Leg 5 (8.8 km) 10:45AM
@@ -87,6 +89,7 @@
   * xK [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
+
 ## Leg 6 (13.1 km) 11:40AM
 
 * 起点
@@ -102,6 +105,7 @@
 * 补给 / 拍照点
   * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
   * xK [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+
 
 
 ## Leg 7 (10 km) 12:50PM
@@ -121,6 +125,7 @@
   * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
+
 ## Leg 8 (10.2 km) 13:40PM
 
 * 起点
@@ -136,6 +141,7 @@
 * 补给 / 拍照点
   * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
   * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+
 
 
 ## Leg 9 (12.2 km) 14:30PM
@@ -156,6 +162,7 @@
   * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
+
 ## Leg 10 (10.1 km) 15:30PM
 
 * 起点
@@ -171,6 +178,7 @@
 * 补给 / 拍照点
   * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
   * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+
 
 
 ## Leg 11 (14.1 km) 16:20PM
@@ -190,6 +198,7 @@
   * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
 
 
+
 ## Leg 12 (11.7 km) 17:30PM
 
 * 起点
@@ -203,8 +212,9 @@
 
 
 * 补给 / 拍照点
-  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
-  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+  * 4.2K  [Google Map](https://goo.gl/maps/ChMZz5G17EJrQeo3A)
+  * 8.1K  [Google Map](https://goo.gl/maps/qy8zqbJatXYN2gcc6)
+  * 10.4K [Google Map](https://goo.gl/maps/BQaLgD6Rf3WoPeKo8)
 
 
 
