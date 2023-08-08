@@ -85,8 +85,8 @@
 
 
 * 补给 / 拍照点
-  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
-  * xK [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+  * 4.7K  [Google Map](https://goo.gl/maps/dCuEagzLKEY2JqmU9)
+  * 6.3K  [Google Map](https://goo.gl/maps/mcekDkEZpeqo7rG1A)
 
 
 
