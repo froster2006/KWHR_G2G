@@ -199,9 +199,11 @@
 
 
 * 补给 / 拍照点
-  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
-  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
-
+  * 2.1K  [Google Map](https://goo.gl/maps/wVzmsgteWqosEt7q7)
+  * 6.1K  [Google Map](https://goo.gl/maps/hDamB5aRG19k3sEs8)
+  * 6.7K  [Google Map](https://goo.gl/maps/SFmeGEnhb6yWX1549)
+  * 9.7K  [Google Map](https://goo.gl/maps/9QutfsPSYdt65yY26)
+  * 12.1K [Google Map](https://goo.gl/maps/ZVhJAfZkJazAYhaCA)
 
 
 ## Leg 12 (11.7 km) 17:30PM
