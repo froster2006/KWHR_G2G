@@ -48,7 +48,7 @@
 
 
 * 补给 / 拍照点
-  * 4.3K  [Google Map](https://goo.gl/maps/qNDg4Zoz7y2kJU3J6)
+  * 4.3K  [Google Map](https://goo.gl/maps/TN9NQ41Ck1u8rozP8)
   * 6.8K  [Google Map](https://goo.gl/maps/e9hLvkWbKaDZWcZw9)
 
 
@@ -159,7 +159,7 @@
 
 
 * 补给 / 拍照点
-  * 4.1K   [Google Map](https://goo.gl/maps/iF7tUyD5GVtrFQ8DA)
+  * 4.1K   [Google Map](https://goo.gl/maps/fNr43HTaAed9mUo37)
   * 6.1K   [Google Map](https://goo.gl/maps/asRxboExKbw9aULB9)
   * 8.1K   [Google Map](https://goo.gl/maps/kxKJbmHVMBwfiVEp8)
   * 10.1K  [Google Map](https://goo.gl/maps/d3Av3wFtMqusVztq8)
@@ -218,6 +218,7 @@
 
 
 * 补给 / 拍照点
+  * 2.1K  [Google Map](https://goo.gl/maps/CNAjTf53opmw6j5q8)
   * 4.2K  [Google Map](https://goo.gl/maps/ChMZz5G17EJrQeo3A)
   * 8.1K  [Google Map](https://goo.gl/maps/qy8zqbJatXYN2gcc6)
   * 10.4K **most important direction point** [Google Map](https://goo.gl/maps/GqYNNun2TmWdLCu3A)
