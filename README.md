@@ -86,7 +86,7 @@
 
 * 补给 / 拍照点
   * 4.7K  [Google Map](https://goo.gl/maps/dCuEagzLKEY2JqmU9)
-  * 6.3K  [Google Map](https://goo.gl/maps/mcekDkEZpeqo7rG1A)
+  * 6.3K  [Google Map](https://www.google.com/maps/place/43.557678,+-80.902377/@43.5570012,-80.902586,17z/data=!4m4!3m3!8m2!3d43.5576776!4d-80.9023768)
 
 
 
