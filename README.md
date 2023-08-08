@@ -199,7 +199,6 @@
 
 
 * 补给 / 拍照点
-  * 2.1K  [Google Map](https://goo.gl/maps/wVzmsgteWqosEt7q7)
   * 6.1K  [Google Map](https://goo.gl/maps/hDamB5aRG19k3sEs8)
   * 6.7K  [Google Map](https://goo.gl/maps/SFmeGEnhb6yWX1549)
   * 9.7K  [Google Map](https://goo.gl/maps/9QutfsPSYdt65yY26)
