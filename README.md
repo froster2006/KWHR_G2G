@@ -103,8 +103,9 @@
 
 
 * 补给 / 拍照点
-  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
-  * xK [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+  * 3.8K  [Google Map](https://goo.gl/maps/eVLPf6zmurxL5zNo9)
+  * 7K    [Google Map](https://goo.gl/maps/EURCA3rrKVrUGk1w5)
+  * 11.1K [Google Map](https://goo.gl/maps/AJ1QQWncSSGVdwvX8)
 
 
 
@@ -121,8 +122,8 @@
 
 
 * 补给 / 拍照点
-  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
-  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+  * 3.9K  [Google Map](https://goo.gl/maps/JY96vMWecmJ6Cix19)
+  * 7.9K  [Google Map](https://goo.gl/maps/6UpMtFLtpfCuhLKU9)
 
 
 
@@ -139,8 +140,8 @@
 
 
 * 补给 / 拍照点
-  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
-  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+  * 4.1K  [Google Map](https://goo.gl/maps/6mpgveB35gdoizRh9)
+  * 8.2K  [Google Map](https://goo.gl/maps/3rYbD9KDTjMM51BZ6)
 
 
 
@@ -158,8 +159,10 @@
 
 
 * 补给 / 拍照点
-  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
-  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+  * 4.1K   [Google Map](https://goo.gl/maps/iF7tUyD5GVtrFQ8DA)
+  * 6.1K   [Google Map](https://goo.gl/maps/asRxboExKbw9aULB9)
+  * 8.1K   [Google Map](https://goo.gl/maps/kxKJbmHVMBwfiVEp8)
+  * 10.1K  [Google Map](https://goo.gl/maps/d3Av3wFtMqusVztq8)
 
 
 
@@ -176,8 +179,10 @@
 
 
 * 补给 / 拍照点
-  * xK  [Google Map](https://goo.gl/maps/CMR5WHc1x9gawMQk8)
-  * xK  [Google Map](https://goo.gl/maps/2gaqxorqksBUX3YL9)
+  * 3.9K  [Google Map](https://goo.gl/maps/mL97h6NTUnc78fvb9)
+  * 6K    [Google Map](https://goo.gl/maps/rBmmLBtW49yjgnuNA)
+  * 8.1K  [Google Map](https://goo.gl/maps/uhhF8MSoZ6FwA7hX7)
+
 
 
 
