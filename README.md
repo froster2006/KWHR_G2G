@@ -2,7 +2,7 @@
 
 [Leg Detailed Information](https://docs.google.com/document/d/e/2PACX-1vQ_QvtN1P-dHgvfzhLpRcFYUwCSwYNtIvVLo_nRsxCRtstdR7LZ4SDARZgG_EAUT-tY4IkEEEOimFW-/pub)
 
-希望拉拉队员每腿开始前分配好补给点，提前到达，队员们通过时为他们加油送水， 录像，拍照。  **手机录像统一用横屏， 方便后期剪辑**。\
+希望拉拉队员每腿开始前分配好补给点，提前到达，队员们通过时为他们加油送水， 录像，拍照。  **手机录像拍照统一用横屏， 方便后期剪辑**。\
 队员通过后前往下个补给点或者终点等候。
 
 ## Leg 1 (11.5 km) 7:00AM CoCo 叶小革
