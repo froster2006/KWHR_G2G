@@ -5,7 +5,7 @@
 希望拉拉队员每腿开始前分配好补给点，提前到达，队员们通过时为他们加油送水， 录像，拍照。  **手机录像统一用横屏， 方便后期剪辑**。\
 队员通过后前往下个补给点或者终点等候。
 
-## Leg 1 (11.5 km) 7:00AM
+## Leg 1 (11.5 km) 7:00AM CoCo 叶小革
 
 ![leg1](https://lh4.googleusercontent.com/9OGFTJuc93EjvKYzHhh2lhvYziIlADYuifbkiYaJ_szSgPPOhdXRZzKQP36tK9g4gGdOTlGj0cw-Z3PFsDL73tsWODJoLfn7x51NNtdNmbdO_QnYyGBxbRK7PcS4uizDyLUF8Vv8CX2B1R0dJ8F2XGA)
 
@@ -25,7 +25,7 @@
 
 
 
-## Leg 2 (6.0 km) 8:00AM
+## Leg 2 (6.0 km) 8:00AM 冬哥 Sarah席爽
 
 ![leg2](https://lh4.googleusercontent.com/4dnCNm4wYMVGtX_z-MIve_859vy13yGmsuSkb7B0ncqtGeVha3WlAOkri7WtL_o_7CTLxczvZU-zsZNb0YUpK1LDkvEEQu5oNeB1Q30mS-noY00ovJ_gChuwQn2jlqb8BtWzRehQyWM9cedoq4rp3Fk)
 
@@ -44,7 +44,7 @@
 
 
 
-## Leg 3 (8.5 km) 8:40AM
+## Leg 3 (8.5 km) 8:40AM 桂柏 Crystal
 
 ![leg3](https://lh4.googleusercontent.com/-yJLukG1SG7HTLFogKbzIVtUz8El8Uz4vJtX8d5xKZ6etbQSGP66xVkYQPmO-Fh4McU1TTKRioaByj9PtTWCinDhR-Whmi2FObRqItPyy9k58eKdFNtKt2g57lCjstoOBhYp3g-WPiWrz2NvZ3e4-eg)
 
@@ -64,7 +64,7 @@
 
 
 
-## Leg 4 (15.5 km) 9:30AM
+## Leg 4 (15.5 km) 9:30AM YanYin Jeff
 
 ![leg4](https://lh5.googleusercontent.com/bfuzCO7qg7ThW7H4jBZnZW9U7zmVLQcBplcWTisbTw27unDdrOBR8W35AO9wQvCJIIHt8lmJ0AIZ3ZjS2c3CcYUsB5zv1H-9qtCOcrgtmcGOlspbDYXG_77gT4_KoW3cwOf6FsZ3gxP1c5C32iwZb1g)
 
@@ -85,7 +85,7 @@
 
 
 
-## Leg 5 (8.8 km) 10:45AM
+## Leg 5 (8.8 km) 10:45AM 高清 Linda Lin
 
 ![leg5](https://lh3.googleusercontent.com/XsVl2Rd5C7egx9rrhd289kQjtC2i6jUhnEBWNQ1Mnxl6y0Q1YqQcUb7kaNXIjkp6TgME8kL6pF-oaVEDlXx_8fOZyInvVOiK00HS27xoaKlk_ps1UD6vfMQZ7tvWpBUwcOZPZ02WjKvoHLbFTSavLJ0)
 
@@ -105,7 +105,7 @@
 
 
 
-## Leg 6 (13.1 km) 11:40AM
+## Leg 6 (13.1 km) 11:40AM 飞哥 云平大哥
 
 ![leg6](https://lh4.googleusercontent.com/QtpRtmdbZhzwl37s72edJN0h_WlRuAf5GIx-BYqor6XeJtZ678Pwp49VIhUdqSLSD6-HxEx8tqfmPlMLPeN1c1OwwQlmfdsuD9Xfkg-YiMnuruU210E9AOXrDEb7qSx2PhZiG1k31h2ma2nBwVUAspw)
 
@@ -125,7 +125,7 @@
   * 11.1K [Google Map](https://goo.gl/maps/AJ1QQWncSSGVdwvX8)
 
 
-## Leg 7 (10 km) 12:50PM
+## Leg 7 (10 km) 12:50PM RuiRui 郭大侠
 
 ![leg7](https://lh6.googleusercontent.com/zQGccvx3R_5UAORM7SJcNG7tVSkcw0r8NDbFiwbLqWmyFr7ysCnAz-bnNxo8prQFbmyVBv6YdtcAXZEMreZ-lD_69NkFSSTsgJ2CF19AShHKD12TyUjLJ5AOqsuBrCv_DV80DnLt-pfxnS_2x-w2OvY)
 
@@ -145,7 +145,7 @@
 
 
 
-## Leg 8 (10.2 km) 13:40PM
+## Leg 8 (10.2 km) 13:40PM 表哥 Jetty九儿
 
 ![leg8](https://lh3.googleusercontent.com/8fnh-1dvgj-_Djt6JhGdYcQNLEUoCb8sgtXi0zCeOHKEN21b3jIkiAuTzpTpMB78tTpR7JKSoc4B3VkXNr5sQpTP9mpL4K9gh3_k_GbOv303IBJO9i8KRgNmtGeo1aqScb2OeuRN9wGF8ZdDIDq8Gyo)
 
@@ -165,7 +165,7 @@
 
 
 
-## Leg 9 (12.2 km) 14:30PM
+## Leg 9 (12.2 km) 14:30PM Peter 谈德斌
 
 ![leg9](https://lh6.googleusercontent.com/RgDjZHUUKWSARgci9Kh9iLMP9mg9tlsHw5i7bAyFOCndcm6dhrOtMl4GTOQqsrARo8q0R6SzIlQJbhgwsUcFLs9YcS3hIxJd4VJXuupdfjq7gS1GI7Oe-XARD3RbmGu0IVGJDBycVNm6iy5j-caai8g)
 
@@ -187,7 +187,7 @@
   * 10.1K  [Google Map](https://goo.gl/maps/d3Av3wFtMqusVztq8)
 
 
-## Leg 10 (10.1 km) 15:30PM
+## Leg 10 (10.1 km) 15:30PM 纪凯大哥 Yun
 
 ![leg10](https://lh3.googleusercontent.com/ze7WI-CIjxWmyB5UmaVYsvTVuWHaS0gNvup7swMyjeyfsAdtAtASVAP9uczk3SAwr1QIcpv1IJpCDB0jad-OLsZ84KTLx2dqKKXFC2NTDpGTY-YteHP_ZPutnuWlCrAvZ56BCDvEYctXlMrMk3cmlKA)
 
@@ -209,7 +209,7 @@
 
 
 
-## Leg 11 (14.1 km) 16:20PM
+## Leg 11 (14.1 km) 16:20PM 校长 Alice
 
 ![leg11](https://lh5.googleusercontent.com/YpipjO6d3p4Hrf24x1hsKU5w3epbeVBRkayPB4A-JaHq4YsHmpHWNRO0VqqXRYEgC1GrmrNmM9K74tZiZyQKFMcLRGvHAWbesTQFTVCaolB4XmTS0kYXIr3nYZun53G2D77mf23S6QNajoy1avCP2eo)
 
@@ -230,7 +230,7 @@
   * 12.1K [Google Map](https://goo.gl/maps/ZVhJAfZkJazAYhaCA)
 
 
-## Leg 12 (11.7 km) 17:30PM
+## Leg 12 (11.7 km) 17:30PM 老汪 Susan姜英
 
 ![leg12](https://lh3.googleusercontent.com/qubEzPZ5chi6gvBkGCcwHDxj9VkQ4JwFrxf8SGu-nZfENT_oFHy_qIE-ipj_mFTX75tErIJxxKvBumiMO2WQyssN-28SoVgp92xfdyWUJKlWB3EIJBcsNCQoTfXIy7uaOrGNE4iY2cGDsaBP3U0gsHA)
 
